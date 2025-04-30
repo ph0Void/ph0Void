@@ -2,7 +2,7 @@
 
 # 👋 ¡Hola! Soy **Nelson** 
 
-Soy desarrollador full stack especializado en el ecosistema Java y tecnologías modernas de desarrollo web y móvil. Actualmente curso el segundo año de Ingeniería de Telecomunicaciones .
+Soy desarrollador full stack especializado en el ecosistema Java y tecnologías modernas de desarrollo web y móvil. Actualmente curso el segundo año de Ingeniería de Telecomunicaciones en la Universidad Nacional Tecnológica de Lima Sur (UNTELS).
 
 ---
 
@@ -18,34 +18,65 @@ Soy desarrollador full stack especializado en el ecosistema Java y tecnologías 
 
 ## 💻 Tecnologías y herramientas que domino
 
-### 🧩 Lenguajes
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+### 🧠 Lenguajes de programación
+<table>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=java" /><br>Java</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=ts" /><br>TypeScript</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=js" /><br>JavaScript</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=php" /><br>PHP</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=html" /><br>HTML</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=css" /><br>CSS</td>
+  </tr>
+</table>
 
-### 🧱 Frameworks & Librerías
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![WebFlux](https://img.shields.io/badge/Spring_WebFlux-3178C6?style=for-the-badge&logo=spring&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+### ⚙️ Frameworks y Librerías
+<table>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=spring" /><br>Spring Boot</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=react" /><br>React</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=nextjs" /><br>Next.js</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=tailwind" /><br>Tailwind CSS</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=reactnative" /><br>React Native</td>
+  </tr>
+</table>
 
-### 🗃️ Bases de Datos
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+### 🛡️ Seguridad
+<table>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=spring" /><br>Spring Security</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=jwt" /><br>JWT</td>
+  </tr>
+</table>
 
-### 🔒 Seguridad
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+### 🗄️ Bases de datos
+<table>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=mysql" /><br>MySQL</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=postgres" /><br>PostgreSQL</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=mongodb" /><br>MongoDB</td>
+  </tr>
+</table>
 
-### 🔧 Herramientas
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+### 🛠️ Herramientas y DevOps
+<table>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=git" /><br>Git</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=postman" /><br>Postman</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=docker" /><br>Docker</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=androidstudio" /><br>Android Studio</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=vscode" /><br>VS Code</td>
+  </tr>
+</table>
+
+---
+
+## 📈 Mis estadísticas de GitHub
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ph0Void&show_icons=true&theme=tokyonight&hide=issues" alt="ph0Void GitHub Stats" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ph0Void&layout=compact&theme=tokyonight&langs_count=10" alt="ph0Void Top Languages" height="170" />
+</div>
 
 ---
 
@@ -58,21 +89,14 @@ Soy desarrollador full stack especializado en el ecosistema Java y tecnologías 
   <a href="https://www.linkedin.com/in/birunthaban-sarventhiran/">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white" />
   </a>
-  <a href="https://medium.com/@sbirunthaban007">
-    <img src="https://img.shields.io/badge/-Medium-12100E?style=for-the-badge&logo=Medium&logoColor=white">
-  </a>
-  <a href="https://twitter.com/S_Birunthaban">
-    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white">
-  </a>
 </p>
 
 ---
 
-> *"Ningún árbol puede crecer hasta el cielo si sus raíces no están en el infierno."*
+> *"Uno no nace sabiendo."*
 
 ---
 
 📅 **Última actualización:** Abril 2025  
 🎯 **GitHub:** `ph0Void`  
 🔗 **Portafolio (próximamente):** [https://ph0void.dev](https://ph0void.dev)
-
