@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=ph0Void)
+
 
 # 👋 ¡Hola! Soy **Nelson** 
 
