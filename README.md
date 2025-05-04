@@ -2,7 +2,7 @@
 
 # 👋 ¡Hola! Soy **Nelson** 
 
-Soy desarrollador full stack especializado en el ecosistema Java y tecnologías modernas de desarrollo web y móvil. Actualmente curso el segundo año de Ingeniería de Telecomunicaciones en la Universidad Nacional Tecnológica de Lima Sur (UNTELS).
+Soy desarrollador full stack especializado en el ecosistema Java y tecnologías modernas de desarrollo web y móvil. 
 
 ---
 
