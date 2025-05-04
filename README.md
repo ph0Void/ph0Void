@@ -2,17 +2,23 @@
 
 # 👋 ¡Hola! Soy **Nelson** 
 
-Soy desarrollador full stack especializado en el ecosistema Java y tecnologías modernas de desarrollo web y móvil. 
+Desarrollador Full Stack con pasión por crear soluciones completas, combinando la potencia del backend con Spring Boot y la versatilidad del frontend con React. Además, he incursionado en el desarrollo de aplicaciones móviles usando React Native.
+
 
 ---
 
 ## 🚀 Sobre mí
 
-- 🧠 Apasionado por construir **sistemas backend escalables** usando Spring Boot (monolitos, microservicios, WebFlux, JWT).
-- 🧰 Manejo completo de herramientas modernas: React, Next.js, Tailwind, TypeScript y React Native para interfaces rápidas y responsivas.
-- 💾 Trabajo con múltiples bases de datos: **MySQL, PostgreSQL y MongoDB**.
-- 📱 Desarrollo de aplicaciones móviles con React Native y backend RESTful en Spring.
-- 📊 Interesado en Big Data, Cloud, Machine Learning y Ciencia de Datos.
+- 🔧 Apasionado por construir sistemas backend escalables y robustos usando Spring Boot (monolitos, microservicios, WebFlux, seguridad con JWT).
+
+- 💻 Especializado en frontend moderno con React, Next.js, Tailwind CSS y TypeScript.
+
+- 📱 Experiencia en desarrollo de aplicaciones móviles con React Native.
+
+- 🛢️ Trabajo con bases de datos relacionales y NoSQL como MySQL, PostgreSQL y MongoDB.
+
+- 🤝 Me encanta trabajar en equipo, aprender nuevas tecnologías y participar en proyectos desafiantes.
+
 
 ---
 
