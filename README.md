@@ -86,16 +86,17 @@ Desarrollador Full Stack con pasión por crear soluciones completas, combinando 
 
 ---
 
-## Contactame
+## 📬 Contáctame
 
 <p align="left">
-  <a href="mailto:nsq433023@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="mailto:nsq433023@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="www.linkedin.com/in/nelson-soriano-quispe-a2ba28267">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white" />
+  <a href="https://www.linkedin.com/in/nelson-soriano-quispe-a2ba28267" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
+
 ---
 
 > *"Uno no nace sabiendo."*
