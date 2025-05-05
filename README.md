@@ -100,4 +100,4 @@ Desarrollador Full Stack con pasión por crear soluciones completas, combinando 
 
 📅 **Última actualización:** Abril 2025  
 🎯 **GitHub:** `ph0Void`  
-🔗 **Portafolio (próximamente):** [https://ph0void.dev](https://ph0void.dev)
+🔗 **Portafolio (próximamente):** [https://ph0void.dev](https://portafolio-v1-nu.vercel.app)
