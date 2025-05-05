@@ -97,11 +97,6 @@ Desarrollador Full Stack con pasión por crear soluciones completas, combinando 
   </a>
 </p>
 
----
-
-> *"Uno no nace sabiendo."*
-
----
 
 📅 **Última actualización:** Abril 2025  
 🎯 **GitHub:** `ph0Void`  
