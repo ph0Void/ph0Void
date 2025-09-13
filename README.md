@@ -39,14 +39,6 @@ Desarrollador apasionado por la tecnología, con experiencia en **backend** (Spr
   </tr>
 </table>
 
-### 🛡️ Seguridad
-<table>
-  <tr>
-    <td align="center"><img src="https://skillicons.dev/icons?i=spring" /><br>Spring Security</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=jwt" /><br>JWT</td>
-  </tr>
-</table>
-
 ### 🗄️ Bases de datos
 <table>
   <tr>
