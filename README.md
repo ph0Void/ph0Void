@@ -1,23 +1,22 @@
-
-
 # 👋 ¡Hola! Soy **Nelson** 
 
-Desarrollador Full Stack con pasión por crear soluciones completas, combinando la potencia del backend con Spring Boot y la versatilidad del frontend con React. Además, he incursionado en el desarrollo de aplicaciones móviles usando React Native.
+Desarrollador apasionado por la tecnologia, en donde he conocido tecnologias backend como Spring Boot con java y NodeJs tanto con Typescript como javascript ,
+ademas tambien he implementado tecnologias frontend usando React Vite o NexJs con Typescript. 
 
 
 ---
 
 ## 🚀 Sobre mí
 
-- 🔧 Apasionado por construir sistemas backend escalables y robustos usando Spring Boot (monolitos, microservicios, WebFlux, seguridad con JWT).
+- 🔧 Apasionado por construir sistemas backend escalables y robustos usando Spring Boot o NodeJs.
 
 - 💻 Especializado en frontend moderno con React, Next.js, Tailwind CSS y TypeScript.
 
-- 📱 Experiencia en desarrollo de aplicaciones móviles con React Native.
-
 - 🛢️ Trabajo con bases de datos relacionales y NoSQL como MySQL, PostgreSQL y MongoDB.
+- Conocimiento de docker.
+-  Integracion de pruebas unitarias como continuas.
 
-- 🤝 Me encanta trabajar en equipo, aprender nuevas tecnologías y participar en proyectos desafiantes.
+- 🤝 Me encanta trabajar en equipo y aprender nuevas tecnologías.
 
 
 ---
@@ -30,7 +29,6 @@ Desarrollador Full Stack con pasión por crear soluciones completas, combinando 
     <td align="center"><img src="https://skillicons.dev/icons?i=java" /><br>Java</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=ts" /><br>TypeScript</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=js" /><br>JavaScript</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=php" /><br>PHP</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=html" /><br>HTML</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=css" /><br>CSS</td>
   </tr>
@@ -40,10 +38,10 @@ Desarrollador Full Stack con pasión por crear soluciones completas, combinando 
 <table>
   <tr>
     <td align="center"><img src="https://skillicons.dev/icons?i=spring" /><br>Spring Boot</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=spring" /><br>NodeJs</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=react" /><br>React</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=nextjs" /><br>Next.js</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=tailwind" /><br>Tailwind CSS</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=reactnative" /><br>React Native</td>
   </tr>
 </table>
 
@@ -70,7 +68,6 @@ Desarrollador Full Stack con pasión por crear soluciones completas, combinando 
     <td align="center"><img src="https://skillicons.dev/icons?i=git" /><br>Git</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=postman" /><br>Postman</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=docker" /><br>Docker</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=androidstudio" /><br>Android Studio</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=vscode" /><br>VS Code</td>
   </tr>
 </table>
@@ -98,6 +95,6 @@ Desarrollador Full Stack con pasión por crear soluciones completas, combinando 
 </p>
 
 
-📅 **Última actualización:** Abril 2025  
-🎯 **GitHub:** `ph0Void`  
+📅 **Última actualización:** Agosto 2025  
+🎯 **GitHub:** `ph0Void`  [Ph0Void](https://github.com/ph0Void)
 🔗 **Portafolio (próximamente):** [https://ph0void.dev](https://portafolio-v1-nu.vercel.app)
