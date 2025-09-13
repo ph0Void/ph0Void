@@ -1,23 +1,17 @@
 # 👋 ¡Hola! Soy **Nelson** 
 
-Desarrollador apasionado por la tecnologia, en donde he conocido tecnologias backend como Spring Boot con java y NodeJs tanto con Typescript como javascript ,
-ademas tambien he implementado tecnologias frontend usando React Vite o NexJs con Typescript. 
-
+Desarrollador apasionado por la tecnología, con experiencia en **backend** (Spring Boot, Java, Node.js, TypeScript, JavaScript) y **frontend** (React, Vite, Next.js, TypeScript). Me encanta crear soluciones robustas, escalables y con interfaces modernas.
 
 ---
 
 ## 🚀 Sobre mí
 
-- 🔧 Apasionado por construir sistemas backend escalables y robustos usando Spring Boot o NodeJs.
-
-- 💻 Especializado en frontend moderno con React, Next.js, Tailwind CSS y TypeScript.
-
-- 🛢️ Trabajo con bases de datos relacionales y NoSQL como MySQL, PostgreSQL y MongoDB.
-- Conocimiento de docker.
--  Integracion de pruebas unitarias como continuas.
-
-- 🤝 Me encanta trabajar en equipo y aprender nuevas tecnologías.
-
+- 🔧 Apasionado por construir sistemas backend escalables y robustos usando **Spring Boot** o **Node.js**.
+- 💻 Especializado en frontend moderno con **React**, **Next.js**, **Tailwind CSS** y **TypeScript**.
+- 🛢️ Experiencia con bases de datos relacionales y NoSQL como **MySQL**, **PostgreSQL** y **MongoDB**.
+- 🐳 Conocimientos en **Docker** y despliegue de aplicaciones.
+- 🧪 Integración de pruebas unitarias y continuas.
+- 🤝 Disfruto trabajar en equipo, compartir conocimiento y aprender nuevas tecnologías.
 
 ---
 
@@ -38,7 +32,7 @@ ademas tambien he implementado tecnologias frontend usando React Vite o NexJs co
 <table>
   <tr>
     <td align="center"><img src="https://skillicons.dev/icons?i=spring" /><br>Spring Boot</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=spring" /><br>NodeJs</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=nodejs" /><br>Node.js</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=react" /><br>React</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=nextjs" /><br>Next.js</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=tailwind" /><br>Tailwind CSS</td>
@@ -92,9 +86,16 @@ ademas tambien he implementado tecnologias frontend usando React Vite o NexJs co
   <a href="https://www.linkedin.com/in/nelson-soriano-quispe-a2ba28267" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn" />
   </a>
+  <a href="https://github.com/ph0Void" target="_blank">
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://portafolio-v1-nu.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/-Portafolio-24292F?style=for-the-badge&logo=vercel&logoColor=white" alt="Portafolio" />
+  </a>
 </p>
 
+---
 
-📅 **Última actualización:** Agosto 2025  
-🎯 **GitHub:** `ph0Void`  [Ph0Void](https://github.com/ph0Void)
-🔗 **Portafolio (próximamente):** [https://ph0void.dev](https://portafolio-v1-nu.vercel.app)
+📅 **Última actualización:** Septiembre 2025  
+🎯 **GitHub:** [`ph0Void`](https://github.com/ph0Void)  
+🔗 **Portafolio:** [https://portafolio-v1-nu.vercel.app](https://portafolio-v1-nu.vercel.app)
