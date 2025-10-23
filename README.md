@@ -88,6 +88,6 @@ Desarrollador apasionado por la tecnología, con experiencia en **backend** (Spr
 
 ---
 
-📅 **Última actualización:** Septiembre 2025  
+📅 **Última actualización:** Octubre 2025  
 🎯 **GitHub:** [`ph0Void`](https://github.com/ph0Void)  
-🔗 **Portafolio:** (https://portafolio-v2-gamma.vercel.app/)
+🔗 **Portafolio:** (https://portafolio-personal-v3.netlify.app/)
