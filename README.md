@@ -133,6 +133,6 @@ Aplicación fullstack con **Next.js**, **Node.js**, **Express**, **PostgreSQL** 
 </p>
  
 
-📄 **CV:** [Ver CV](https://drive.google.com/file/d/1x_b6SkFHmiooOfy4PkupJcM3xGITaLgf/view?usp=drive_link)  
+📄 **CV:** [Ver CV](https://drive.google.com/file/d/107LnfolSiXYr8CbEJmr8Q8LP4wHED0i1/view?usp=drive_link)  
 🎯 **GitHub:** [`ph0Void`](https://github.com/ph0Void)  
 🔗 **Portafolio:** https://portafolio-personal-v3.netlify.app/  
