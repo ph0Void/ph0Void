@@ -2,7 +2,7 @@
 
 Desarrollador web apasionado por crear soluciones que combinen **buen diseño**, **arquitecturas sólidas** e **Inteligencia Artificial**. Trabajo tanto en **backend** (Java/Spring Boot, Node.js, TypeScript) como en **frontend** (React, Next.js, Tailwind CSS), construyendo desde aplicaciones monolíticas hasta **microservicios** y plataformas impulsadas por IA.
 
----
+ 
 
 ## 🚀 Sobre mí
 
@@ -15,7 +15,7 @@ Desarrollador web apasionado por crear soluciones que combinen **buen diseño**,
 - 🧪 Experiencia en **pruebas**, buenas prácticas, patrones como **MVC** y arquitectura por capas.  
 - 🤝 Me encanta aprender, compartir  y trabajar en equipo.
 
----
+ 
 
 ## 🧠 Tecnologías principales
 
@@ -103,7 +103,7 @@ Aplicación fullstack con **Next.js**, **Node.js**, **Express**, **PostgreSQL** 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ph0Void&layout=compact&theme=tokyonight&langs_count=10" alt="ph0Void Top Languages" height="170" />
 </div>
 
----
+ 
 
 ## 📬 Contáctame
 
@@ -124,8 +124,7 @@ Aplicación fullstack con **Next.js**, **Node.js**, **Express**, **PostgreSQL** 
     <img src="https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
   </a>
 </p>
-
----
+ 
 
 📄 **CV:** [Ver CV](https://drive.google.com/file/d/1x_b6SkFHmiooOfy4PkupJcM3xGITaLgf/view?usp=drive_link)  
 📅 **Última actualización:** Octubre 2025  
