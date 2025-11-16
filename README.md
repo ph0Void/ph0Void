@@ -68,7 +68,9 @@ Plataforma de ventas basada en **microservicios reactivos** con **Spring WebFlux
 Incluye gestión de productos, clientes, ventas y proformas, generación de **PDFs**, dashboards y un **chatbot inteligente** con **Spring AI + LM Studio**.  
 
 🔗 Repo: https://github.com/ph0Void/Sistema-Reactivo-Inteligente-para-Ventas-y-Proformas.git
+
 🎥 Demo: https://youtu.be/Uo1jZbLI748  
+
 
  
 
@@ -77,7 +79,9 @@ Plataforma de blogging para desarrolladores, con frontend en **Next.js + TypeScr
 Incluye **editor Markdown enriquecido (Milkdown) con IA**, dashboard de métricas con **Chart.js**, autenticación con **JWT**, subida de imágenes a **Cloudinary** y un asistente IA para generar, revisar y optimizar contenido técnico. 
 
 🔗 Repo: https://github.com/ph0Void/DEV-BLOGGING-PLATFORM-AI.git
+
 🎥 Demo: https://youtu.be/C1RgGucH6Ec  
+
 
  
 
@@ -85,14 +89,17 @@ Incluye **editor Markdown enriquecido (Milkdown) con IA**, dashboard de métrica
 Asistente de ventas para **WhatsApp** usando **Node.js + TypeScript** y **whatsapp-web.js**, que registra clientes y pedidos en **Google Sheets**, genera proformas, responde consultas 24/7 y puede integrarse con modelos como **GPT-4, Gemini u Ollama**. Ideal para automatizar negocios que venden por WhatsApp.  
 
 🔗 Repo: https://github.com/ph0Void/Asistente-de-Ventas-pora-WhatsApp-con-IA  
+
 🎥 Demo: https://youtu.be/U7XOfJoTQPk 
 
  
+
 
 ### 📊 Gestor de Gastos Personales con Asistente IA
 Aplicación fullstack con **Next.js**, **Node.js**, **Express**, **PostgreSQL** y **Prisma**, que permite gestionar presupuestos, gastos, métricas financieras y recibir recomendaciones de un **chatbot IA (Google Gemini)**. Incluye autenticación con JWT, notificaciones por email, dashboard con **Chart.js** y diseño responsive con modo oscuro.  
 
 🔗 Repo: https://github.com/ph0Void/Proyecto-gestor-gastos  
+
 🎥 Demo: https://youtu.be/MZshU0iligY
 
 
@@ -127,6 +134,5 @@ Aplicación fullstack con **Next.js**, **Node.js**, **Express**, **PostgreSQL** 
  
 
 📄 **CV:** [Ver CV](https://drive.google.com/file/d/1x_b6SkFHmiooOfy4PkupJcM3xGITaLgf/view?usp=drive_link)  
-📅 **Última actualización:** Octubre 2025  
 🎯 **GitHub:** [`ph0Void`](https://github.com/ph0Void)  
 🔗 **Portafolio:** https://portafolio-personal-v3.netlify.app/  
