@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy **Nelson (Ph0Byte)**  
+# 👋 ¡Hola! Soy **Nelson**  
 
 Desarrollador web apasionado por crear soluciones que combinen **buen diseño**, **arquitecturas sólidas** e **Inteligencia Artificial**. Trabajo tanto en **backend** (Java/Spring Boot, Node.js, TypeScript) como en **frontend** (React, Next.js, Tailwind CSS), construyendo desde aplicaciones monolíticas hasta **microservicios** y plataformas impulsadas por IA.
 
