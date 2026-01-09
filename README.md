@@ -65,8 +65,8 @@ Desarrollador web apasionado por crear soluciones que combinen **buen diseño**,
 ## 📈 Mis estadísticas de GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ph0Void&show_icons=true&theme=tokyonight&hide=issues" alt="ph0Void GitHub Stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ph0Void&layout=compact&theme=tokyonight&langs_count=10" alt="ph0Void Top Languages" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ph0Void&show_icons=true&theme=tokyonight&hide=issues" alt="GitHub Stats" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ph0Void&layout=compact&theme=tokyonight&langs_count=10" alt="Top Languages" height="170" />
 </div>
 
  
