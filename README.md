@@ -73,12 +73,6 @@ Desarrollador web apasionado por crear soluciones que combinen **buen diseño**,
   </a>
 </p>
 
-<p align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ph0Void&theme=dark&hide_border=true"/>
-</p>
-
- 
-
 ## 📬 Contáctame
 
 <p align="left">
