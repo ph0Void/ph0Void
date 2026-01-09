@@ -64,10 +64,18 @@ Desarrollador web apasionado por crear soluciones que combinen **buen diseño**,
  
 ## 📈 Mis estadísticas de GitHub
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ph0Void&show_icons=true&theme=tokyonight&hide=issues" alt="GitHub Stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ph0Void&layout=compact&theme=tokyonight&langs_count=10" alt="Top Languages" height="170" />
-</div>
+<p align="center">
+  <a href="https://github.com/ph0Void">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ph0Void&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  </a>
+  <a href="https://github.com/ph0Void">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ph0Void&layout=compact&langs_count=8&theme=algolia"/>
+  </a>
+</p>
+
+<p align="center">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ph0Void&theme=dark&hide_border=true"/>
+</p>
 
  
 
