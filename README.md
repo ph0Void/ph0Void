@@ -95,5 +95,4 @@ Desarrollador web apasionado por crear soluciones que combinen **buen diseño**,
  
 
 📄 **CV:** [Ver CV](https://drive.google.com/file/d/107LnfolSiXYr8CbEJmr8Q8LP4wHED0i1/view?usp=drive_link)  
-🎯 **GitHub:** [`ph0Void`](https://my-portfolio-ph0byte.netlify.app/portfolio)  
-🔗 **Portafolio:** https://portafolio-personal-v3.netlify.app/  
+🔗 **Portafolio:** [`Ver Portafolio`](https://my-portfolio-ph0byte.netlify.app/portfolio)  
