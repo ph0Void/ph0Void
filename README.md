@@ -85,7 +85,7 @@ Desarrollador web apasionado por crear soluciones que combinen **buen diseño**,
   <a href="https://github.com/ph0Void" target="_blank">
     <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://portafolio-personal-v3.netlify.app" target="_blank">
+  <a href="https://my-portfolio-ph0byte.netlify.app/portfolio" target="_blank">
     <img src="https://img.shields.io/badge/-Portafolio-24292F?style=for-the-badge&logo=vercel&logoColor=white" alt="Portafolio" />
   </a>
   <a href="https://www.youtube.com/@Ph0-fj9bu" target="_blank">
